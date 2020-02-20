@@ -1,0 +1,5 @@
+Unit 6 Task 5 Run Data
+Time For Run 1: 0.001939 seconds
+Time For Run 2: 0.001788 seconds
+Time For Run 3: 0.001657 seconds
+Average Time for Bubble Sort ASC: 0.001794 seconds
